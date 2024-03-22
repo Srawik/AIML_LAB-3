@@ -6,3 +6,4 @@
 [a5](https://github.com/Srawik/AIML_LAB-3/blob/main/Assignment_5.ipynb)
 [a6](https://github.com/Srawik/AIML_LAB-3/blob/main/Assignment_6.ipynb)
 [a7](https://github.com/Srawik/AIML_LAB-3/blob/main/Assignment_7.ipynb)
+[a8](https://github.com/Srawik/AIML_LAB-3/blob/main/Assignment_8.ipynb)
